@@ -1,4 +1,23 @@
 h1{
   color: rgb(6,137,0); 
   font: normal 175% 'century gothic', arial, sans-serif;
+  font-weight: bold;
+}
+
+h2{
+    color: rgb(6,137,0); 
+    font: normal 175% 'century gothic', arial, sans-serif;
+    text-transform: uppercase;
+    font-size: medium;
+}
+
+h3{
+    color: grey;
+    font: normal 175% 'century gothic', arial, sans-serif;
+    text-decoration: underline;
+}
+
+p{
+   font: normal .80em 'trebuchet ms', arial, sans-serif;
+   color: #777;
 }
