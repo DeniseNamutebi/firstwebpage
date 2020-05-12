@@ -1,5 +1,6 @@
 body{
     padding: 25px 40px 75px 45px;
+    
 }
 
 h1{
@@ -35,4 +36,12 @@ p{
 
 #info-link{
     font-style: italic;
+}
+
+#scrum-title{
+    color: white;
+    background-color: green;
+    opacity: 0.6;
+    margin: 25px 50px 75px 100px;
+    
 }
