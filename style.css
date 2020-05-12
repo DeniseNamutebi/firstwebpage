@@ -4,14 +4,15 @@ h1{
   font-weight: bold;
 }
 
-h2{
+
+h3{
     color: rgb(6,137,0); 
     font: normal 175% 'century gothic', arial, sans-serif;
     text-transform: uppercase;
     font-size: medium;
 }
 
-h3{
+h4{
     color: grey;
     font: normal 175% 'century gothic', arial, sans-serif;
     text-decoration: underline;
@@ -20,4 +21,10 @@ h3{
 p{
    font: normal .80em 'trebuchet ms', arial, sans-serif;
    color: #777;
+}
+
+#sprint-image{
+    height: 300px;
+    width: 300px;
+
 }
