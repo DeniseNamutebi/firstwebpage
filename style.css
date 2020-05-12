@@ -38,10 +38,10 @@ p{
     font-style: italic;
 }
 
-#scrum-title{
+#header{
     color: white;
     background-color: green;
-    opacity: 0.6;
-    margin: 25px 50px 75px 100px;
-    
+    opacity: 0.3;
+    display: block;
+    height: 177px;
 }
