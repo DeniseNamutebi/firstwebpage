@@ -13,12 +13,12 @@ h3{
     color: rgb(6,137,0); 
     font: normal 175% 'century gothic', arial, sans-serif;
     text-transform: uppercase;
-    font-size: medium;
+    
 }
 
 h4{
     color: grey;
-    font: normal 175% 'century gothic', arial, sans-serif;
+    font: normal 150% 'century gothic', arial, sans-serif;
     text-decoration: underline;
 }
 
