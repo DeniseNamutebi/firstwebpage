@@ -1,6 +1,6 @@
 body{
     padding: 25px 40px 75px 45px;
-    font: normal .80em 'trebuchet ms', arial, sans-serif;
+    font: normal .90em 'trebuchet ms', arial, sans-serif;
     color: #777;
     margin: 0px 50px 0px;
     
@@ -18,7 +18,7 @@ h1{
 
 h3{
     color: rgb(6,137,0); 
-    font: normal 40px 'century gothic', arial, sans-serif;
+    font: normal 37px 'century gothic', arial, sans-serif;
     text-transform: uppercase;
     font-weight: bolder;
 }
