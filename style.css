@@ -2,8 +2,13 @@ body{
     padding: 25px 40px 75px 45px;
     font: normal .90em 'trebuchet ms', arial, sans-serif;
     color: #777;
-    margin: 0px 50px 0px;
-    text-align: justify;    
+    line-height: 1.5;
+    text-align: justify;
+    margin:0px 40px 0px 35px; 
+}
+
+#text-page{
+    margin:0px 150px 0px 150px; 
 }
 
 h1{
@@ -75,24 +80,25 @@ table{
     padding: 8px;
 }
 
+#sprints{
+    padding-top: 10px;
+}
 #sprint-image{
     display: block;
     text-align: center;
     margin-right: 160px;
 }
 
+#ceremonies{
+    padding-top: 70px;
+}
 #info-link{
     font-style: italic;
 }
 
-#footer{
+footer{
    /* display: block;*/
    background-color: rgb(83,163,24);
+   text-align: center;
 }
 
-#author{
-    font: normal 'trebuchet ms', arial, sans-serif;
-    color: white;
-    /*margin-left: 50px;*/
-    font-weight: bolder;
-}
