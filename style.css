@@ -9,7 +9,31 @@ body{
 
 #text-page{
     margin:0px 150px 0px 150px; 
+    background-color: whitesmoke;
 }
+
+@media screen and (max-width: 943px){
+   #body{
+    margin:0px 15px 0px 15px;
+    padding: 25px 20px 70px 20px;
+   }
+    #text-page{
+        margin: 0px 5px 0px 5px;
+        white-space: normal;
+    }
+
+    #sprint-image{
+        transform: scale(0.5);
+    }
+}
+
+/*@media screen and (max-width: 682px){
+#navigation-table{
+    white-space: normal;
+    
+}
+}*/
+
 
 h1{
   color: whitesmoke; 
